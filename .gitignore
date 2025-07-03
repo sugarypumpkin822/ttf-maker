@@ -1,0 +1,10 @@
+# Ignore build artifacts and generated files
+*.exe
+*.o
+*.obj
+*.ttf
+*.log
+*.pyc
+__pycache__/
+glyphs/*.svg
+!glyphs/.keep 

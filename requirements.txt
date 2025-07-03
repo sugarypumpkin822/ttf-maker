@@ -1,0 +1,3 @@
+# Only needed if you use additional Python packages
+# FontForge scripting uses the fontforge module, which is provided by FontForge itself
+# If you use pip packages, list them here 

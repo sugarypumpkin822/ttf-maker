@@ -1,0 +1,3 @@
+A: triangle, B: square, C: circle
+X: circle, Y: triangle, Z: square
+A: square, B: triangle 
